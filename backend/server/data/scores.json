@@ -1,0 +1,12 @@
+[
+  { "rank": 1, "name": "Kim", "score": 3000 },
+  { "rank": 2, "name": "Tim", "score": 2000 },
+  { "rank": 3, "name": "Kyle", "score": 1000 },
+  { "rank": 4, "name": "Sangam", "score": 800 },
+  { "rank": 5, "name": "Kim", "score": 700 },
+  { "rank": 6, "name": "Tim", "score": 600 },
+  { "rank": 7, "name": "Kyle", "score": 500 },
+  { "rank": 8, "name": "Sangam", "score": 400 },
+  { "rank": 9, "name": "Kim", "score": 200 },
+  { "rank": 10, "name": "Kyle", "score": 100 }
+]

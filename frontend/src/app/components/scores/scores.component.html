@@ -1,0 +1,17 @@
+<div id="scoreboard" class="text-center text-xl mt-12 mb-20">
+  <table
+    class="mx-auto border-separate border-spacing-x-10 border-spacing-y-4 mb-6 border-4 border-custom-dark-blue rounded-xl"
+  >
+    <tr>
+      <th class="text-3xl">Rank</th>
+      <th class="text-3xl">Name</th>
+      <th class="text-3xl">Score</th>
+    </tr>
+    <tr *ngFor="let score of scores">
+      <td>{{ score.rank }}</td>
+      <td>{{ score.name }}</td>
+      <td>{{ score.score }}</td>
+    </tr>
+  </table>
+  <p class="self-center">You cleared {{ linesCleared }} lines!</p>
+</div>

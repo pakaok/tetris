@@ -1,7 +1,7 @@
-# 3815ICT-Software-Engineering-Assignment
+# 3815ICT-Software-Engineering
 
-Assignment repo using p5.play
-
+repo using p5.play
+Implementation Video link: https://youtu.be/gum018heSq4?si=Yswin5FUNegln26g
 ###### Instruction on how to run
 
 ###### 1. Pull down the repository from GitHub and open the repository in VS Code.
